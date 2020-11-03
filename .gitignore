@@ -1,3 +1,6 @@
 /EWARM/EFireGSM
 /EWARM/settings
 COG12864.pdf
+Drivers/CMSIS/DSP
+Drivers/CMSIS/NN
+Drivers/CMSIS/Core_A
